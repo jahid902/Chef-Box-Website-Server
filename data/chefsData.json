@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "name": "Julia Child",
+    "picture": "https://i.pinimg.com/originals/e0/e4/3b/e0e43b07cacfa18d5fbd6cb059baa803.jpg",
+    "experience": 30,
+    "numRecipes": 200,
+    "likes": 10000,
+    "description": "Julia Child was an American chef, author, and television personality. She was a pioneer of French cuisine in the United States and her cookbooks and TV shows were very popular.",
+    "recipes": [
+      {
+        "name": "Boeuf Bourguignon",
+        "ingredients": [
+          "beef chuck",
+          "bacon",
+          "onion",
+          "carrot",
+          "garlic",
+          "red wine",
+          "beef broth",
+          "thyme",
+          "bay leaf"
+        ],
+        "method": "1. Cut beef into cubes, chop bacon, onion, and carrot\n2. Cook bacon in a Dutch oven until crispy, remove\n3. Brown beef in bacon fat, remove\n4. Cook onions and carrots in remaining fat, add garlic\n5. Add wine, broth, thyme, bay leaf, and beef, bring to a simmer\n6. Cover and cook in oven for 3 hours",
+        "rating": 4.8
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "chicken thighs",
+          "bacon",
+          "onion",
+          "carrot",
+          "garlic",
+          "red wine",
+          "chicken broth",
+          "thyme",
+          "mushrooms"
+        ],
+        "method": "1. Brown chicken and bacon in a Dutch oven, remove\n2. Cook onions and carrots in remaining fat, add garlic\n3. Add wine, broth, thyme, chicken, and bacon, bring to a simmer\n4. Cover and cook in oven for 1 hour\n5. Saute mushrooms separately and add to pot",
+        "rating": 4.5
+      },
+      {
+        "name": "Potato Leek Soup",
+        "ingredients": [
+          "potatoes",
+          "leeks",
+          "onion",
+          "garlic",
+          "chicken broth",
+          "heavy cream"
+        ],
+        "method": "1. Cook leeks, onion, and garlic in a pot until soft\n2. Add potatoes and chicken broth, bring to a simmer\n3. Cook until potatoes are soft, blend with immersion blender\n4. Add heavy cream and heat through",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Li Nanxing",
+    "picture": "https://feeds.oddle.me/wp-content/uploads/2021/04/DSC00129-scaled.jpg",
+    "experience": 20,
+    "numRecipes": 100,
+    "likes": 5000,
+    "description": "Li Nanxing is a renowned Chinese chef who has won numerous awards for his innovative take on traditional Chinese cuisine. He is known for his use of fresh, locally-sourced ingredients and his ability to blend flavors from different regions of China.",
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "dried chili peppers",
+          "peanuts",
+          "scallions",
+          "ginger",
+          "garlic",
+          "soy sauce",
+          "rice vinegar",
+          "sugar"
+        ],
+        "method": "1. Cut chicken into small pieces, marinate in soy sauce and rice vinegar\n2. Toast peanuts in a dry pan, set aside\n3. Saute chicken in oil until cooked through, set aside\n4. Saute chili peppers, scallions, ginger, and garlic until fragrant\n5. Add chicken back to the pan, along with peanuts and sugar\n6. Cook for a few more minutes and serve",
+        "rating": 4.7
+      },
+      {
+        "name": "Shrimp Fried Rice",
+        "ingredients": [
+          "rice",
+          "shrimp",
+          "eggs",
+          "carrots",
+          "peas",
+          "scallions",
+          "soy sauce",
+          "sesame oil",
+          "white pepper"
+        ],
+        "method": "1. Cook rice and let cool\n2. Beat eggs and cook in a pan until scrambled, set aside\n3. Saute shrimp, carrots, peas, and scallions in oil until cooked through\n4. Add rice and eggs to the pan, along with soy sauce, sesame oil, and white pepper\n5. Stir-fry for a few more minutes and serve",
+        "rating": 4.3
+      },
+      {
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "tofu",
+          "ground pork",
+          "doubanjiang",
+          "chili bean paste",
+          "garlic",
+          "ginger",
+          "scallions",
+          "soy sauce",
+          "cornstarch"
+        ],
+        "method": "1. Cut tofu into cubes and blanch in boiling water\n2. Brown ground pork in a pan, set aside\n3. Saute doubanjiang, chili bean paste, garlic, ginger, and scallions in oil until fragrant\n4. Add pork back to the pan, along with soy sauce and a bit of water\n5. Mix cornstarch with a bit of water and stir into the pan to thicken\n6. Add tofu and gently stir to coat with sauce\n7. Serve hot",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gordon Ramsay",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gordon_Ramsay.jpg/170px-Gordon_Ramsay.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 5000,
+    "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He has been awarded 16 Michelin stars in total and currently holds 7.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+          "Beef tenderloin",
+          "Puff pastry",
+          "Mushrooms",
+          "Prosciutto",
+          "Mustard"
+        ],
+        "cooking_method": "Preheat the oven to 200C. Sear the beef, then wrap it in prosciutto and mushrooms. Roll out the puff pastry, wrap the beef in it and bake for 35 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+          "Ground lamb",
+          "Potatoes",
+          "Carrots",
+          "Peas",
+          "Beef broth"
+        ],
+        "cooking_method": "Brown the lamb, then add the vegetables and beef broth. Simmer until the vegetables are tender. Mash the potatoes and spread them over the top of the lamb mixture. Bake for 30 minutes at 200C.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sticky Toffee Pudding",
+        "ingredients": ["Dates", "Butter", "Brown sugar", "Eggs", "Flour"],
+        "cooking_method": "Soak the dates in hot water for 10 minutes. Mix the butter and brown sugar until creamy. Add the eggs and flour, then mix in the dates. Bake for 30 minutes at 180C. Serve with toffee sauce.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "sanjeev Kapoor",
+    "picture": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
+    "year_of_experience": 15,
+    "num_of_recipes": 50,
+    "likes": 5000,
+    "description": "Chef sanjeev Kapoor is an award-winning Indian chef with over 15 years of experience in the culinary industry. He is known for his unique blend of traditional Indian flavors with modern cooking techniques, creating a fusion of mouth-watering dishes that are both healthy and delicious.",
+    "recipes": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "Chicken breast",
+          "Yogurt",
+          "Tomato",
+          "Onion",
+          "Ginger",
+          "Garlic",
+          "Garam masala",
+          "Turmeric",
+          "Cumin",
+          "Coriander",
+          "Salt",
+          "Black pepper"
+        ],
+        "cooking_method": "Marinate chicken with yogurt and spices, grill it until cooked. Then, make the sauce with tomato, onion, ginger, garlic and spices, add the cooked chicken and simmer until the sauce is thickened.",
+        "rating": 4.8
+      },
+      {
+        "name": "Biryani",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onion",
+          "Tomato",
+          "Yogurt",
+          "Ginger",
+          "Garlic",
+          "Cumin",
+          "Coriander",
+          "Cinnamon",
+          "Cardamom",
+          "Cloves",
+          "Bay leaves",
+          "Salt"
+        ],
+        "cooking_method": "Cook rice with spices separately. Cook chicken with onion, tomato, yogurt and spices. Layer rice and chicken in a pot, then cook over low heat until rice is cooked and chicken is tender.",
+        "rating": 4.7
+      },
+      {
+        "name": "Chole Bhature",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chili",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Salt",
+          "Oil",
+          "Flour",
+          "Baking powder",
+          "Sugar",
+          "Yogurt"
+        ],
+        "cooking_method": "Cook chickpeas with onion, tomato and spices until soft. For bhature, mix flour, baking powder, sugar, salt and yogurt to make a dough. Roll out and deep fry until golden brown. Serve hot with chole.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nasir Uddin",
+    "picture": "https://media.licdn.com/dms/image/C4D03AQHsB0JyaTOXdg/profile-displayphoto-shrink_800_800/0/1545747026864?e=2147483647&v=beta&t=_RqvSBTDmxwOAegFzQiDyvSrs6AKNYhSiu4f_ezgLrI",
+    "year_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 10000,
+    "description": "Chef Nasir Uddin is a renowned Bangladeshi chef with over 10 years of experience in creating delicious and authentic Bangladeshi dishes. He has gained a loyal following due to his unique approach to cooking and his ability to fuse traditional flavors with modern techniques.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["beef", "onions", "garlic", "ginger", "tomatoes"],
+        "cooking_method": "1. Heat oil in a pan and add chopped onions. 2. Once the onions are translucent, add minced garlic and ginger. 3. After a few minutes, add chopped tomatoes and cook until they are soft. 4. Add diced beef and stir-fry until the meat is browned. 5. Cover and simmer until the beef is tender. 6. Serve hot with rice or naan.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "ingredients": ["chickpeas", "tomatoes", "onions", "ginger", "garlic"],
+        "cooking_method": "1. Soak chickpeas overnight and cook until tender. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add chopped tomatoes and cook until they are soft. 4. Add the cooked chickpeas and mix well. 5. Add water and bring to a boil. 6. Simmer for 10 minutes. 7. Serve hot with rice or naan.",
+        "rating": 4.2
+      },     
+      {
+        "recipe_name": "Shrimp Biryani",
+        "ingredients": ["shrimp", "rice", "onions", "ginger", "garlic"],
+        "cooking_method": "1. Cook rice and keep aside. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add shrimp and cook until they turn pink. 4. Add cooked rice and mix well. 5. Cover and cook on low heat for 10 minutes. 6. Serve hot.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Juan Rodriguez",
+    "picture": "https://live.staticflickr.com/4149/5000155889_e635e3e500_b.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 50,
+    "likes": 500,
+    "description": "Juan Rodriguez is a renowned Spanish chef who specializes in traditional cuisine from Andalusia. With over 15 years of experience, he has mastered the art of creating rich and flavorful dishes that are sure to delight any palate.",
+    "recipes": [
+      {
+        "name": "Gazpacho Andaluz",
+        "ingredients": [
+          "tomatoes",
+          "cucumbers",
+          "red bell pepper",
+          "garlic",
+          "bread",
+          "olive oil",
+          "sherry vinegar",
+          "water",
+          "salt"
+        ],
+        "cooking_method": "Blend all ingredients together, chill for at least 2 hours, and serve with croutons.",
+        "rating": 4.5
+      },
+      {
+        "name": "Paella Valenciana",
+        "ingredients": [
+          "chicken",
+          "rabbit",
+          "garrofón beans",
+          "green beans",
+          "tomatoes",
+          "rice",
+          "saffron",
+          "paprika",
+          "olive oil",
+          "salt"
+        ],
+        "cooking_method": "Brown the chicken and rabbit, add vegetables and rice, stir in spices and broth, cook until rice is tender and serve.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tortilla Española",
+        "ingredients": ["potatoes", "onions", "eggs", "olive oil", "salt"],
+        "cooking_method": "Slice and fry potatoes and onions, beat eggs, mix all ingredients together and cook in a pan until golden on both sides.",
+        "rating": 4.3
+      },
+      {
+        "name": "Crema Catalana",
+        "ingredients": [
+          "milk",
+          "cream",
+          "sugar",
+          "egg yolks",
+          "cornstarch",
+          "lemon peel",
+          "cinnamon"
+        ],
+        "cooking_method": "Heat milk, cream, sugar, lemon peel and cinnamon, mix egg yolks and cornstarch, add to milk mixture and cook until thickened, chill and sprinkle sugar on top, then use a torch to caramelize the sugar.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
