@@ -118,13 +118,13 @@
     "id": 3,
     "name": "Gordon Ramsay",
     "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gordon_Ramsay.jpg/170px-Gordon_Ramsay.jpg",
-    "years_of_experience": 30,
-    "num_recipes": 100,
+    "experience": 30,
+    "numRecipes": 100,
     "likes": 5000,
     "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He has been awarded 16 Michelin stars in total and currently holds 7.",
     "recipes": [
       {
-        "recipe_name": "Beef Wellington",
+        "name": "Beef Wellington",
         "ingredients": [
           "Beef tenderloin",
           "Puff pastry",
@@ -132,11 +132,11 @@
           "Prosciutto",
           "Mustard"
         ],
-        "cooking_method": "Preheat the oven to 200C. Sear the beef, then wrap it in prosciutto and mushrooms. Roll out the puff pastry, wrap the beef in it and bake for 35 minutes.",
+        "method": "Preheat the oven to 200C. Sear the beef, then wrap it in prosciutto and mushrooms. Roll out the puff pastry, wrap the beef in it and bake for 35 minutes.",
         "rating": 4.8
       },
       {
-        "recipe_name": "Shepherd's Pie",
+        "name": "Shepherd's Pie",
         "ingredients": [
           "Ground lamb",
           "Potatoes",
@@ -144,23 +144,23 @@
           "Peas",
           "Beef broth"
         ],
-        "cooking_method": "Brown the lamb, then add the vegetables and beef broth. Simmer until the vegetables are tender. Mash the potatoes and spread them over the top of the lamb mixture. Bake for 30 minutes at 200C.",
+        "method": "Brown the lamb, then add the vegetables and beef broth. Simmer until the vegetables are tender. Mash the potatoes and spread them over the top of the lamb mixture. Bake for 30 minutes at 200C.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Sticky Toffee Pudding",
+        "name": "Sticky Toffee Pudding",
         "ingredients": ["Dates", "Butter", "Brown sugar", "Eggs", "Flour"],
-        "cooking_method": "Soak the dates in hot water for 10 minutes. Mix the butter and brown sugar until creamy. Add the eggs and flour, then mix in the dates. Bake for 30 minutes at 180C. Serve with toffee sauce.",
+        "method": "Soak the dates in hot water for 10 minutes. Mix the butter and brown sugar until creamy. Add the eggs and flour, then mix in the dates. Bake for 30 minutes at 180C. Serve with toffee sauce.",
         "rating": 4.9
       }
     ]
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "sanjeev Kapoor",
     "picture": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
-    "year_of_experience": 15,
-    "num_of_recipes": 50,
+    "experience": 15,
+    "numRecipes": 50,
     "likes": 5000,
     "description": "Chef sanjeev Kapoor is an award-winning Indian chef with over 15 years of experience in the culinary industry. He is known for his unique blend of traditional Indian flavors with modern cooking techniques, creating a fusion of mouth-watering dishes that are both healthy and delicious.",
     "recipes": [
@@ -180,7 +180,7 @@
           "Salt",
           "Black pepper"
         ],
-        "cooking_method": "Marinate chicken with yogurt and spices, grill it until cooked. Then, make the sauce with tomato, onion, ginger, garlic and spices, add the cooked chicken and simmer until the sauce is thickened.",
+        "method": "Marinate chicken with yogurt and spices, grill it until cooked. Then, make the sauce with tomato, onion, ginger, garlic and spices, add the cooked chicken and simmer until the sauce is thickened.",
         "rating": 4.8
       },
       {
@@ -201,7 +201,7 @@
           "Bay leaves",
           "Salt"
         ],
-        "cooking_method": "Cook rice with spices separately. Cook chicken with onion, tomato, yogurt and spices. Layer rice and chicken in a pot, then cook over low heat until rice is cooked and chicken is tender.",
+        "method": "Cook rice with spices separately. Cook chicken with onion, tomato, yogurt and spices. Layer rice and chicken in a pot, then cook over low heat until rice is cooked and chicken is tender.",
         "rating": 4.7
       },
       {
@@ -224,7 +224,7 @@
           "Sugar",
           "Yogurt"
         ],
-        "cooking_method": "Cook chickpeas with onion, tomato and spices until soft. For bhature, mix flour, baking powder, sugar, salt and yogurt to make a dough. Roll out and deep fry until golden brown. Serve hot with chole.",
+        "method": "Cook chickpeas with onion, tomato and spices until soft. For bhature, mix flour, baking powder, sugar, salt and yogurt to make a dough. Roll out and deep fry until golden brown. Serve hot with chole.",
         "rating": 4.6
       }
     ]
@@ -233,27 +233,27 @@
     "id": 5,
     "name": "Nasir Uddin",
     "picture": "https://media.licdn.com/dms/image/C4D03AQHsB0JyaTOXdg/profile-displayphoto-shrink_800_800/0/1545747026864?e=2147483647&v=beta&t=_RqvSBTDmxwOAegFzQiDyvSrs6AKNYhSiu4f_ezgLrI",
-    "year_of_experience": 10,
-    "num_recipes": 50,
+    "experience": 10,
+    "numRecipes": 50,
     "likes": 10000,
     "description": "Chef Nasir Uddin is a renowned Bangladeshi chef with over 10 years of experience in creating delicious and authentic Bangladeshi dishes. He has gained a loyal following due to his unique approach to cooking and his ability to fuse traditional flavors with modern techniques.",
     "recipes": [
       {
-        "recipe_name": "Beef Bhuna",
+        "name": "Beef Bhuna",
         "ingredients": ["beef", "onions", "garlic", "ginger", "tomatoes"],
-        "cooking_method": "1. Heat oil in a pan and add chopped onions. 2. Once the onions are translucent, add minced garlic and ginger. 3. After a few minutes, add chopped tomatoes and cook until they are soft. 4. Add diced beef and stir-fry until the meat is browned. 5. Cover and simmer until the beef is tender. 6. Serve hot with rice or naan.",
+        "method": "1. Heat oil in a pan and add chopped onions. 2. Once the onions are translucent, add minced garlic and ginger. 3. After a few minutes, add chopped tomatoes and cook until they are soft. 4. Add diced beef and stir-fry until the meat is browned. 5. Cover and simmer until the beef is tender. 6. Serve hot with rice or naan.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Chana Masala",
+        "name": "Chana Masala",
         "ingredients": ["chickpeas", "tomatoes", "onions", "ginger", "garlic"],
-        "cooking_method": "1. Soak chickpeas overnight and cook until tender. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add chopped tomatoes and cook until they are soft. 4. Add the cooked chickpeas and mix well. 5. Add water and bring to a boil. 6. Simmer for 10 minutes. 7. Serve hot with rice or naan.",
+        "method": "1. Soak chickpeas overnight and cook until tender. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add chopped tomatoes and cook until they are soft. 4. Add the cooked chickpeas and mix well. 5. Add water and bring to a boil. 6. Simmer for 10 minutes. 7. Serve hot with rice or naan.",
         "rating": 4.2
       },     
       {
-        "recipe_name": "Shrimp Biryani",
+        "name": "Shrimp Biryani",
         "ingredients": ["shrimp", "rice", "onions", "ginger", "garlic"],
-        "cooking_method": "1. Cook rice and keep aside. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add shrimp and cook until they turn pink. 4. Add cooked rice and mix well. 5. Cover and cook on low heat for 10 minutes. 6. Serve hot.",
+        "method": "1. Cook rice and keep aside. 2. In a separate pan, heat oil and add chopped onions, ginger, and garlic. 3. Once the onions are translucent, add shrimp and cook until they turn pink. 4. Add cooked rice and mix well. 5. Cover and cook on low heat for 10 minutes. 6. Serve hot.",
         "rating": 4.9
       }
     ]
@@ -262,8 +262,8 @@
     "id": 6,
     "name": "Juan Rodriguez",
     "picture": "https://live.staticflickr.com/4149/5000155889_e635e3e500_b.jpg",
-    "years_of_experience": 15,
-    "num_recipes": 50,
+    "experience": 15,
+    "numRecipes": 50,
     "likes": 500,
     "description": "Juan Rodriguez is a renowned Spanish chef who specializes in traditional cuisine from Andalusia. With over 15 years of experience, he has mastered the art of creating rich and flavorful dishes that are sure to delight any palate.",
     "recipes": [
@@ -280,30 +280,13 @@
           "water",
           "salt"
         ],
-        "cooking_method": "Blend all ingredients together, chill for at least 2 hours, and serve with croutons.",
+        "method": "Blend all ingredients together, chill for at least 2 hours, and serve with croutons.",
         "rating": 4.5
-      },
-      {
-        "name": "Paella Valenciana",
-        "ingredients": [
-          "chicken",
-          "rabbit",
-          "garrofón beans",
-          "green beans",
-          "tomatoes",
-          "rice",
-          "saffron",
-          "paprika",
-          "olive oil",
-          "salt"
-        ],
-        "cooking_method": "Brown the chicken and rabbit, add vegetables and rice, stir in spices and broth, cook until rice is tender and serve.",
-        "rating": 4.8
-      },
+      },      
       {
         "name": "Tortilla Española",
         "ingredients": ["potatoes", "onions", "eggs", "olive oil", "salt"],
-        "cooking_method": "Slice and fry potatoes and onions, beat eggs, mix all ingredients together and cook in a pan until golden on both sides.",
+        "method": "Slice and fry potatoes and onions, beat eggs, mix all ingredients together and cook in a pan until golden on both sides.",
         "rating": 4.3
       },
       {
@@ -317,7 +300,7 @@
           "lemon peel",
           "cinnamon"
         ],
-        "cooking_method": "Heat milk, cream, sugar, lemon peel and cinnamon, mix egg yolks and cornstarch, add to milk mixture and cook until thickened, chill and sprinkle sugar on top, then use a torch to caramelize the sugar.",
+        "method": "Heat milk, cream, sugar, lemon peel and cinnamon, mix egg yolks and cornstarch, add to milk mixture and cook until thickened, chill and sprinkle sugar on top, then use a torch to caramelize the sugar.",
         "rating": 4.6
       }
     ]
